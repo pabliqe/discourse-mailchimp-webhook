@@ -2,8 +2,8 @@ plugins:
   discourse_mailchimp_webhook_enabled:
     default: true
   mailchimp_list_id:
-    default: '1234567890'
+    default: '1dd3601660'
   mailchimp_api_key:
-    default: ''
+    default: 'bc82404d44a496b48d8286c456c76fd2-us4'
   mailchimp_dc:
-    default: 'us10'
+    default: 'us4'
